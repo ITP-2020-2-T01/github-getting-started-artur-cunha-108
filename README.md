@@ -27,7 +27,7 @@ O objetivo desta atividade é dar uma introdução breve ao GitHub. Ao final da 
 
 ## :octocat: Git e GitHub
 
-**Git é um sistema de controle de versão distribuido (VCS) que ajuda a controlar mudanças no código durante o desenvovlimento de projetos de software.** O git controla as mudanças que foram feitas no código guardando o que foi modificado dando a possibilidade de reverter o código para versões antigas se necessário. O git também facilita o trabalho em grupo, pois pessoas podem trabalhar no mesmo projeto de software enquanto o git lida com a "mesclagem"(merge) do código.
+**Git é um sistema de controle de versão distribuido (VCS) que ajuda a controlar mudanças no código durante o desenvolvimento de projetos de software.** O git controla as mudanças que foram feitas no código guardando o que foi modificado dando a possibilidade de reverter o código para versões antigas se necessário. O git também facilita o trabalho em grupo, pois pessoas podem trabalhar no mesmo projeto de software enquanto o git lida com a "mesclagem"(merge) do código.
 
 **GitHub é uma plataforma de colaboração.** De software à documentos quaisquer, voce pode usar o GitHub para ajudar no trabalho colaborativo. No GitHub é possível manter projetos privados ou convidar qualquer pessoa do mundo para colaborar.
 
@@ -204,7 +204,7 @@ Os commits são importantes, pois eles dizem ao Git quais modificações foram r
 
 Outra prática comum é o gerenciamento de arquivos, usualmente queremos adicionar ou remover arquivos do projeto, para isso o git tem comandos específicos. Sempre que adicionar ou remover um arquivo do seu projeto não esqueça de fazer um commit (você pode fazer um commit único quando adiciona ou remove múltiplos arquivos de uma vez só).
 
-Quando tiver terminado o trabalho e quiser enviar tudo para ser guardado no github use o comando push. Ao usar esse comando você envia não só os arquivos na sua versão atual para o servidor como também envia todo o rastro de desenvovlimento, contendo todos os commits e toda movimentação que tenha sido feita no repositório até aquele ponto. Veja que você não é obrigado a fazer push toda vez que faz um commit, tente fazer commit periódicamente, mas faça push apenas quando não for mais trabalhar no código.
+Quando tiver terminado o trabalho e quiser enviar tudo para ser guardado no github use o comando push. Ao usar esse comando você envia não só os arquivos na sua versão atual para o servidor como também envia todo o rastro de desenvolvimento, contendo todos os commits e toda movimentação que tenha sido feita no repositório até aquele ponto. Veja que você não é obrigado a fazer push toda vez que faz um commit, tente fazer commit periódicamente, mas faça push apenas quando não for mais trabalhar no código.
 
 ### Criando Branches
 
@@ -219,7 +219,7 @@ Para aprender um pouco mais sobre criação de branches leia ["About Branches"(i
 1. Use um pull request para informar que você terminou a leitura deste documento!
 2. Faça clone deste repositório e crie/envie um novo arquivo markdown para testar se você entendeu o fluxo de trabalho!
 
-## 📚  Matrial de vídeo
+## 📚  Material de vídeo
 * [A short video explaining what GitHub is (use as legendas do youtube)](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
 
 ## 📚  Outros materiais em ingles
